@@ -1,0 +1,20 @@
+{
+  "name": "curso-asincronismo",
+  "version": "1.0.0",
+  "description": "Empezar a experimentar con asincronismo en JavaScript",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js",
+    "callback:challenge": "node src/callback/challenge.js"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "Juan Felipe Gomez <jf.gomezramirez@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
